@@ -1,0 +1,180 @@
+#editBtn {
+  float: right;
+  padding-right: 35px;
+  padding-left: 35px;
+}
+#deleteBtn {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#viewMoreBtn {
+  float: left;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+#addResourceBtn {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: 5px;
+  margin-bottom: 7px;
+  margin-left: 15px;
+}
+.input-feedback {
+  color: red;
+}
+#searchBar {
+  margin-top: -49px;
+  margin-bottom: 12px;
+  margin-left: 10px;
+}
+#pagination {
+  margin-top: 100px;
+}
+.showResources {
+  visibility: hidden;
+}
+#centerContent {
+  column-count: 1;
+}
+.CenterTest {
+  text-align: center;
+}
+#centerTitle {
+  text-align: center;
+}
+#adjustTabs {
+  margin-left: -32px;
+  padding-left: 30px;
+}
+#columnCards {
+  column-count: 3;
+}
+#ctrTitle {
+  line-height: 2.3;
+  text-align: center;
+}
+#resourceImg {
+  width: 400px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+#ctr {
+  text-align: center;
+}
+ul {
+  padding-left: 0;
+  list-style-type: circle;
+  margin-bottom: 0;
+}
+#resourcesCard {
+  float: right;
+}
+#shiftRight {
+  float: right;
+}
+#RTitleCtr {
+  margin-left: 622px;
+  margin-top: 17px;
+}
+#resCol-2 {
+  margin-top: 76px;
+  margin-left: 180px;
+}
+#resCol-1 {
+  margin-top: 74px;
+  margin-left: -340px;
+  margin-right: -46px;
+}
+#resProvided {
+  margin: auto;
+}
+#detailsCard {
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+#description {
+  width: 300px;
+}
+label {
+  margin-left: 10px;
+}
+#formTitle {
+  text-align: center;
+  padding-top: 18px;
+}
+#imageAdjustment {
+  height: 200px;
+  width: 50%;
+}
+#phone {
+  margin-top: 12px;
+}
+#formTitle {
+  margin: auto;
+}
+#formBtn {
+  margin-top: 7px;
+}
+#mainCard {
+  margin-top: 10px;
+}
+#sptAdjust {
+  margin-top: 25px;
+  margin-bottom: 3px;
+}
+#consulting {
+  margin-bottom: 1px;
+}
+#contracting {
+  margin-bottom: 0px;
+}
+#demoCats {
+  margin-bottom: 9px;
+}
+#industrySpecific {
+  margin-bottom: 5px;
+}
+#compliance {
+  margin-bottom: 0px;
+}
+#capital {
+  margin-bottom: 8px;
+}
+#location {
+  padding-bottom: -2px;
+  margin-bottom: 0px;
+}
+#dataTableView {
+  float: right;
+  margin-top: -50px;
+  margin-right: 20px;
+}
+.title {
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: -10px;
+}
+.resourceCats {
+  text-align: center;
+  margin-left: 10px;
+}
+.description {
+  width: 600px;
+}
+.cardTop {
+  top: 18px;
+}
+#formCard {
+  top: 15px;
+}
+#leftCard {
+  padding-left: 25px;
+}
+#rightCard {
+  padding-right: 25px;
+}
+#imgAdjustment {
+  width: 100%;
+  height: 225px;
+}

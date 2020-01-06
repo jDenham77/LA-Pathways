@@ -1,0 +1,97 @@
+.card:hover {
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+.center {
+  text-align: center;
+}
+.header-padding {
+  padding-bottom: 0;
+}
+.circle {
+  border-radius: solid 2px #eeeeee 50%;
+  margin: 5px;
+}
+.small-text {
+  font-size: 8px;
+  text-align: center;
+}
+.icon-size {
+  font-size: small;
+}
+.card-padding {
+  background-color: #fff;
+  border-top: 1px solid #eeeeee;
+  margin: 2px;
+  z-index: 1000;
+}
+.border-bottom {
+  border-bottom: 1px solid #eeeeee;
+}
+.resource {
+  width: 30%;
+  height: 15%;
+  padding: 10px;
+}
+.image-format {
+  width: 100%;
+  height: 200px;
+  border-bottom-left-radius: 50%;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+  pointer-events: none;
+}
+.image-align {
+  vertical-align: text-top;
+}
+.headline {
+  padding: 8px;
+  font-size: 12px;
+}
+.padding-bottom {
+  background-color: #fff;
+  border-top: 1px solid #eeeeee;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+}
+.card-height {
+  height: 30rem;
+  position: relative;
+}
+.user-profile .hovercard .cardheader {
+  background: url("https://www.cgibackgrounds.com/wp-content/uploads/2019/08/Dao_Front_LA4q.jpg");
+  background-size: cover;
+  background-position: 50%;
+  height: 10rem;
+}
+.image-size {
+  height: 75px;
+  width: 75px;
+}
+.resource-name {
+  font-size: medium;
+}
+.resource-cat-list {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#middleHr {
+  margin: 10px;
+}
+.text-small {
+  font-size: small;
+}
+.text-medium {
+  font-size: medium;
+}
+.text-large {
+  font-size: large;
+}
+.info-padding {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.card-background {
+  background-image: url("https://bit.ly/2KY5edZ");
+}

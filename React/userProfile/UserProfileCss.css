@@ -1,0 +1,18 @@
+.editPencil {
+  color: lightgrey;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.editPencil:hover {
+  color: #b092e5;
+  transform: scale(1.4);
+}
+
+.editSubmitBtn {
+  justify-content: space-between;
+}
+
+.userProfilesPagination {
+  margin: auto;
+}

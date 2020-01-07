@@ -1,0 +1,91 @@
+.section {
+  text-align: center;
+}
+.text-center {
+  text-align: center;
+}
+
+.wizardAnswers {
+  display: flex;
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.answerOptions {
+  display: contents;
+  text-align: center;
+}
+.validation {
+  color: rgb(255, 118, 118);
+}
+
+.u-pearl.current .u-pearl-icon,
+.u-pearl.current .u-pearl-number {
+  color: #ffc107;
+  background-color: #fff;
+  border-color: #ffc107;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+.u-pearl.done .u-pearl-icon,
+.u-pearl.done .u-pearl-number {
+  color: #fff;
+  background-color: #ffc107;
+  border-color: #ffc107;
+}
+
+.u-pearl.done:after,
+.u-pearl.done:before,
+.u-pearl.current:after,
+.u-pearl.current:before {
+  background-color: #ffc107;
+}
+
+.radio-primary input[type="radio"] + label::before {
+  border-color: #ffc107;
+}
+
+.radio-primary input[type="radio"]:checked + label::after {
+  background-color: #ffc107;
+}
+
+.wizardFormBtn {
+  background-color: #7ac7f6 !important;
+  border-color: #7ac7f6 !important;
+  color: #fff;
+}
+
+.wizardFormBtn:disabled {
+  background-color: #7ac7f6 !important;
+  border-color: #7ac7f6 !important;
+  color: #fff;
+}
+
+.wizardFormBtn:hover,
+.wizardFormBtn:focus,
+.wizardFormBtn:active {
+  background-color: #19a6fd !important;
+  border-color: #19a6fd !important;
+  color: #fff;
+}
+
+.wizardFormPreviousBtn {
+  background-color: rgb(177, 177, 177) !important;
+  border-color: rgb(177, 177, 177) !important;
+}
+
+.wizardFormPreviousBtn:hover,
+.wizardFormPreviousBtn:focus,
+.wizardFormPreviousBtn:active {
+  background-color: rgb(146, 146, 146) !important;
+  border-color: rgb(146, 146, 146) !important;
+}
+
+.wizardFormCheckbox label::before {
+  border-color: #44abeb !important;
+}
+
+.wizardFormCheckbox input[type="checkbox"]:checked + label::before {
+  color: #2a9fe7 !important;
+}

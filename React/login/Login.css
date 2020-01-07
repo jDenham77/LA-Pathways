@@ -1,0 +1,11 @@
+.moveDown {
+  margin-top: 20px;
+}
+
+.darken {
+  background: darkgrey;
+  padding-top: 20px;
+}
+.input-feedback {
+  color: red;
+}

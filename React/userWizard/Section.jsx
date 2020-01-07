@@ -1,0 +1,33 @@
+import React from "react";
+import PropTypes from "prop-types";
+import "./wizardCss.css";
+
+const Section = props => {
+  return (
+    <div className="col-sm-8 offset-md-2">
+      <div className="card">
+        <div className="card-body">
+          <div className="row text-center">
+            {" "}
+            <div className="col-12">
+              <h6>
+                <strong>{props.title}</strong>
+              </h6>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-sm-12 section">{props.questions}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+Section.propTypes = {
+  title: PropTypes.string,
+  questions: PropTypes.arrayOf(PropTypes.element),
+  isValid: PropTypes.bool
+};
+
+export default Section;

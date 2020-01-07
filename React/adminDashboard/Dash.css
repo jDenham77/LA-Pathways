@@ -1,0 +1,15 @@
+.noPadding {
+  padding: 0px !important;
+}
+
+.cardHeight {
+  height: 160px;
+}
+
+.selectMinWidth {
+  min-width: 300px !important;
+}
+
+.justify {
+  justify-content: space-evenly;
+}
